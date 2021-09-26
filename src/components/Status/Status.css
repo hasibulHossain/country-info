@@ -1,0 +1,31 @@
+.status {
+  font-weight: 500;
+}
+
+.status .status-info {
+  margin-bottom: 1.2em;
+}
+
+.status-info-count {
+  font-weight: 600;
+  color: #56ce66;
+}
+
+.added-country > div {
+  color: #fff;
+  background-color: #8bd295;
+  border-radius: 5px;
+
+  padding: 5px;
+  margin-bottom: 1em;
+}
+
+.status-action button {
+  font-size: 1.1rem;
+  font-weight: 500;
+  border: none;
+  background-color: #8bd295;
+  padding: 0.6em 1.2em;
+  border-radius: 5px;
+  color: #fff;
+}

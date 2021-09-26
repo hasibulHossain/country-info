@@ -1,0 +1,23 @@
+.row {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.container {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.content-left {
+  flex-basis: 80%;
+}
+
+.content-right {
+  flex-basis: 20%;
+}
